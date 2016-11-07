@@ -2,4 +2,8 @@ sun bobo is a good man
 hellow world
 lalalala
 asd
+<<<<<<< HEAD
 master 1
+=======
+feature 1
+>>>>>>> feature
